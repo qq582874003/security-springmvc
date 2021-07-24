@@ -1,0 +1,9 @@
+com/michael/security/springmvc/model/AuthenticationRequest.class
+com/michael/security/springmvc/service/AuthenticationService.class
+com/michael/security/springmvc/service/AuthenticationServiceImpl.class
+com/michael/security/springmvc/model/UserDto.class
+com/michael/security/springmvc/config/WebConfig.class
+com/michael/security/springmvc/interceptor/SimpleAuthenticationInterceptor.class
+com/michael/security/springmvc/controller/LoginController.class
+com/michael/security/springmvc/init/SpringApplicationInitializer.class
+com/michael/security/springmvc/config/ApplicationConfig.class
